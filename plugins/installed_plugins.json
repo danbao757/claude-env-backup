@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "plugins": {
+    "skill-creator@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.claude\\plugins\\cache\\claude-plugins-official\\skill-creator\\1c2381696666",
+        "version": "1c2381696666",
+        "installedAt": "2026-07-16T10:11:33.607Z",
+        "lastUpdated": "2026-07-16T10:11:33.607Z",
+        "gitCommitSha": "1c23816966668311effd450998da177893c7990d"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.claude\\plugins\\cache\\claude-plugins-official\\claude-code-setup\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-15T09:00:40.921Z",
+        "lastUpdated": "2026-05-15T09:00:40.921Z",
+        "gitCommitSha": "1a2f18b05cf5652fd25403e8d229fc884fb84103"
+      }
+    ],
+    "claude-mem@thedotmack": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.claude\\plugins\\cache\\thedotmack\\claude-mem\\13.9.2",
+        "version": "13.9.2",
+        "installedAt": "2026-07-01T09:43:38.138Z",
+        "lastUpdated": "2026-07-01T09:43:38.138Z"
+      }
+    ],
+    "pua@pua-skills": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.claude\\plugins\\cache\\pua-skills\\pua\\3.5.0",
+        "version": "3.5.0",
+        "installedAt": "2026-07-01T09:58:07.174Z",
+        "lastUpdated": "2026-07-01T09:58:07.174Z",
+        "gitCommitSha": "d602b75218600aa9063fb2464e22be81388c6e68"
+      }
+    ],
+    "web-access@web-access": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.claude\\plugins\\cache\\web-access\\web-access\\2.5.2",
+        "version": "2.5.2",
+        "installedAt": "2026-07-01T10:33:58.071Z",
+        "lastUpdated": "2026-07-01T10:33:58.071Z",
+        "gitCommitSha": "7af34af6a25940d917905f0e5f2a7ef056952971"
+      }
+    ],
+    "ui-ux-pro-max@ui-ux-pro-max-skill": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.claude\\plugins\\cache\\ui-ux-pro-max-skill\\ui-ux-pro-max\\2.6.2",
+        "version": "2.6.2",
+        "installedAt": "2026-07-01T10:57:20.943Z",
+        "lastUpdated": "2026-07-01T10:57:20.943Z",
+        "gitCommitSha": "3effe971c07a20658952e304099557523bdf9e44"
+      }
+    ]
+  }
+}

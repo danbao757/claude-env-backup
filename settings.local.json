@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(skill-creator:skill-creator)",
+      "Skill(skill-creator:skill-creator:*)",
+      "Bash(CLAUDE_CODE_PLUGIN_GIT_TIMEOUT_MS=300000 claude plugin *)",
+      "Bash(pip install *)"
+    ]
+  }
+}
