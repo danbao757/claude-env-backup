@@ -16,7 +16,7 @@
 | `restore.sh` | 一键恢复脚本（Git Bash 运行） |
 
 ## 在新电脑上恢复
-
+111112222
 ### 前置条件
 - 安装 [git](https://git-scm.com)（Windows 版自带 Git Bash）
 - 安装 [Claude Code](https://claude.com/product/claude-code)
