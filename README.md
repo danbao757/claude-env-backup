@@ -5,7 +5,7 @@
 > 🔑 **Token 已脱敏**：`settings.json` 中 `ANTHROPIC_AUTH_TOKEN` 已替换为 `<YOUR_TOKEN_HERE>` 占位符。恢复后请手动填入你自己的 Token（bigmodel.cn 控制台获取）。其余配置（模型、API 地址、插件开关）完整保留。
 
 ## 仓库结构
-
+哈哈哈
 | 路径 | 内容 |
 |---|---|
 | `skills/` | 全部个人技能（60+ 个），含 **ecc**(everything-claude-code) 与 **mattpocock-skills** 两个目录插件的完整源码 |
